@@ -26,7 +26,7 @@ Autres solutions :
 
 [La visualisation interactive des données](/06b_Visualisations_interactives.ipynb)
 
-[Exemple de machine learning supervisé (Vins)](/07_ML_wine.ipynb)
+[Exemple de machine learning supervisé (Vins)](/07_ml_wine.ipynb)
 
 [Le machine learning supervisé](/07a_Machine_learning_supervise.ipynb)
 
